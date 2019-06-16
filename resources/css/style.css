@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  background: url("./../images/paw-print-941498_960_720.jpg");
+  height: 632px;
+}
+
+.box-contaner {
+  margin: 20px 40px;
+}
+
+.ageDog {
+  display: grid;
+}
+
+.ageHuman {
+  display: grid;
+}
+
+input {
+  text-align: right;
+  height: 25px;
+  font-family: sans-serif;
+  font-size: 14px;
+  background: lightgrey;
+  border-radius: 10px;
+  padding: 0 5px;
+}
